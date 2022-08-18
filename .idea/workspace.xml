@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="전체적 협의된 방향성으로 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="주 색상 적용">
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660576980217</updated>
       <workItem from="1660576985313" duration="442000" />
-      <workItem from="1660800543501" duration="1320000" />
+      <workItem from="1660800543501" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -48,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660801479134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="주 색상 적용">
+      <created>1660801920016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660801920017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="전체적 협의된 방향성으로 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="전체적 협의된 방향성으로 수정" />
+    <MESSAGE value="주 색상 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="주 색상 적용" />
   </component>
 </project>
