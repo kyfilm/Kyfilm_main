@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="오류 수정">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="수정사항 적용">
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <workItem from="1660576985313" duration="442000" />
       <workItem from="1660800543501" duration="2278000" />
       <workItem from="1660816934308" duration="65000" />
-      <workItem from="1660817011814" duration="990000" />
+      <workItem from="1660817011814" duration="1311000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660817845013</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="수정사항 적용">
+      <created>1660818184246</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660818184246</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +138,7 @@
     <MESSAGE value="프리텐다드 및 사이트 타이틀, 파비콘 전체적용" />
     <MESSAGE value="요청사항 적용" />
     <MESSAGE value="오류 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="오류 수정" />
+    <MESSAGE value="수정사항 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="수정사항 적용" />
   </component>
 </project>
