@@ -4,7 +4,8 @@
     <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="수정사항 적용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DOjMOdrCjwaUZ0PPo0YBfZ7mmL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +51,9 @@
       <workItem from="1660800543501" duration="2278000" />
       <workItem from="1660816934308" duration="65000" />
       <workItem from="1660817011814" duration="2307000" />
-      <workItem from="1660819934536" duration="1277000" />
+      <workItem from="1660819934536" duration="8462000" />
+      <workItem from="1661175784083" duration="1367000" />
+      <workItem from="1661177164800" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -126,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660820159972</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="수정사항 적용">
+      <created>1660821271796</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660821271796</updated>
+    </task>
+    <task id="LOCAL-00013" summary="수정사항 적용">
+      <created>1660821319295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660821319295</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
