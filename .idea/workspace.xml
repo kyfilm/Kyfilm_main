@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="수정사항 적용" />
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="수정사항 적용">
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/13.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/14.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/showreel-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +67,7 @@
       <workItem from="1661175784083" duration="1367000" />
       <workItem from="1661177164800" duration="8092000" />
       <workItem from="1661247625096" duration="1872000" />
+      <workItem from="1661251812750" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
