@@ -488,24 +488,19 @@ h6 {
   color: #fff;
 }
 #hero .btn-go-showreel {
-  background-color: #5889e5;
-  text-transform: uppercase;
   font-weight: 500;
   font-size: 10px;
   letter-spacing: 1px;
-  display: inline-block;
   padding: 4px 14px;
   border-radius: 50px;
   transition: 0.5s;
+  border: #fff;
   margin: 5px;
-  border: 2px solid #5889e5;
-  color: #fff;
+  color: #000;
 }
 
 #hero .btn-go-showreel:hover {
-  background-color: #fff;
-  border: 2px solid #000;
-  color: #000;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
