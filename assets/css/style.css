@@ -1161,19 +1161,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #343b40;
+  background: #5889e5;
   padding: 30px 0;
   color: #fff;
   font-size: 14px;
 }
 
 #footer .copyright {
-  text-align: center;
-}
-
-#footer .credits {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 13px;
-  color: #ccc;
+  margin-top: 0.1rem;
+  text-align: left;
 }
