@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="수정사항 적용">
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/12.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/13.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/14.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/showreel-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="타이틀 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kim-youngmin/WebstormProjects/Kyfilm_main&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "/Users/kim-youngmin/WebstormProjects/Kyfilm_main",
+    "settings.editor.selected.configurable": "shared-indexes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -67,7 +54,8 @@
       <workItem from="1661175784083" duration="1367000" />
       <workItem from="1661177164800" duration="8092000" />
       <workItem from="1661247625096" duration="1872000" />
-      <workItem from="1661251812750" duration="409000" />
+      <workItem from="1661251812750" duration="1351000" />
+      <workItem from="1661254309994" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -181,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661249491722</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="타이틀 수정">
+      <created>1661252528707</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661252528707</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +212,7 @@
     <MESSAGE value="요청사항 적용" />
     <MESSAGE value="오류 수정" />
     <MESSAGE value="수정사항 적용" />
-    <option name="LAST_COMMIT_MESSAGE" value="수정사항 적용" />
+    <MESSAGE value="타이틀 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="타이틀 수정" />
   </component>
 </project>
