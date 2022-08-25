@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="타이틀 수정">
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="포폴 내용 추가">
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/showreel/showreel-21.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +51,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "last_opened_file_path": "/Users/kim-youngmin/WebstormProjects/Kyfilm_main",
-    "settings.editor.selected.configurable": "shared-indexes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kim-youngmin/WebstormProjects/Kyfilm_main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -56,6 +80,7 @@
       <workItem from="1661247625096" duration="1872000" />
       <workItem from="1661251812750" duration="1351000" />
       <workItem from="1661254309994" duration="72000" />
+      <workItem from="1661470515838" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -176,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661252528707</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="포폴 내용 추가">
+      <created>1661470842372</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661470842372</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +245,7 @@
     <MESSAGE value="오류 수정" />
     <MESSAGE value="수정사항 적용" />
     <MESSAGE value="타이틀 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="타이틀 수정" />
+    <MESSAGE value="포폴 내용 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="포폴 내용 추가" />
   </component>
 </project>
