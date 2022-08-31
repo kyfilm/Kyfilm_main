@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="포폴 내용 추가">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portrait/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/12.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/13.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/14.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/product/9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/showreel/showreel-21.jpg" afterDir="false" />
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="포폴  순서 수정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +37,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/kim-youngmin/WebstormProjects/Kyfilm_main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -80,7 +59,15 @@
       <workItem from="1661247625096" duration="1872000" />
       <workItem from="1661251812750" duration="1351000" />
       <workItem from="1661254309994" duration="72000" />
-      <workItem from="1661470515838" duration="376000" />
+      <workItem from="1661470515838" duration="1225000" />
+      <workItem from="1661688486268" duration="2981000" />
+      <workItem from="1661692044164" duration="88000" />
+      <workItem from="1661693001354" duration="1906000" />
+      <workItem from="1661732978430" duration="288000" />
+      <workItem from="1661733274287" duration="1674000" />
+      <workItem from="1661816288164" duration="864000" />
+      <workItem from="1661847955448" duration="2491000" />
+      <workItem from="1661926445264" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
@@ -208,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661470842372</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="포폴  순서 수정">
+      <created>1661471142030</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661471142030</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +240,7 @@
     <MESSAGE value="수정사항 적용" />
     <MESSAGE value="타이틀 수정" />
     <MESSAGE value="포폴 내용 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="포폴 내용 추가" />
+    <MESSAGE value="포폴  순서 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="포폴  순서 수정" />
   </component>
 </project>
