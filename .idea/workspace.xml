@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="포폴  순서 수정">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-    </list>
+    <list default="true" id="38c6e961-ac04-4b1e-8148-034f3a335973" name="변경" comment="포폴  순서 수정" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +71,7 @@
       <workItem from="1661847955448" duration="2491000" />
       <workItem from="1661926445264" duration="1977000" />
       <workItem from="1661943651881" duration="145000" />
-      <workItem from="1661943837561" duration="8892000" />
+      <workItem from="1661943837561" duration="9581000" />
     </task>
     <task id="LOCAL-00001" summary="전체적 협의된 방향성으로 수정">
       <created>1660801479134</created>
